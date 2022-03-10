@@ -53,7 +53,7 @@ h1 {
   margin-top: -60px;
 }
 
-.Astronaut {
+.astronaut {
   position: absolute;
   animation-name: floating;
   animation-duration: 3.5s;
