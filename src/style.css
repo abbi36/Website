@@ -64,6 +64,7 @@ h1 {
   top: 220px;
   margin-left: 1400px;
 }
+
 @keyframes floating {
   0% {
     transform: translate(0, 0px);
